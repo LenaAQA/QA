@@ -23,21 +23,21 @@
 
 ---
 
-### Моё резюме
+### Моё резюме:
 <div>
 <a href="https://myresume.ru/resume/hxASpHRUSRK/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/128/6186/6186195.png" width="40" height="40" alt="linkedin" />
       </div>
 
 ---
-### Примеры моей документации
-<div id="doc">
-    #### Чек-лист <a href="https://github.com/LenaQA94/checklist" target="_blank">
+### Примеры моей документации:
+Чек-лист<div id="doc">
+     <a href="https://github.com/LenaQA94/checklist" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/128/2666/2666505.png" width="40" height="40" alt="linkedin" />
-    </a>
-    ### Тест-кейс <a href="https://github.com/LenaQA94/test-case" target="_blank">
+    </a></div>
+Тест-кейс <div> <a href="https://github.com/LenaQA94/test-case" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/128/10492/10492963.png" width="40" height="40" alt="telegram" />
-    </a>
+    </a></div>
   </div>
 
 ---
