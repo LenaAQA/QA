@@ -33,9 +33,11 @@
 ### Примеры моей документации:
 <div id="doc">
      <p><a href="https://github.com/LenaQA94/checklist" target="_blank">Чек-лист</p>
-      </a></div>
- <div> <p><a href="https://github.com/LenaQA94/test-case" target="_blank">Тест-кейс</p>
-    </a></div>
+      </a>
+ <p><a href="https://github.com/LenaQA94/test-case" target="_blank">Тест-кейс</p>
+    </a>
+       <p><a href=" https://github.com/LenaQA94/bug-report" target="_blank">Баг-репорт</p>
+      </a>
   </div>
 
 ---
