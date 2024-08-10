@@ -35,7 +35,7 @@
       </a>
  <p><a href="https://github.com/LenaQA94/test-case" target="_blank">Тест-кейс</p>
     </a>
-       <p><a href="https://github.com/LenaQA94/bug-report" target="_blank">Баг-репорт</p>
+       <p><a href="https://github.com/LenaQA94/bug-report" target="_blank">Отчёт о дефекте</p>
       </a>
   </div>
 
