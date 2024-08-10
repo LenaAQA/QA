@@ -8,6 +8,7 @@
 Имею опыт работы более десяти лет в качестве оператора электронно-вычислительных машин. На прошлом месте работы в мои обязанности входил контроль за ведением табеля рабочего времени в ИС "Управление персоналом" "SAP"; бумажный и электронный документооборот (Lotus Notes), контроль своевременного исполнения приказов руководителя, регистрация, учёт и контроль за исполнением обращений граждан. 
 
 - 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pireseduardo/)](https://www.linkedin.com/in/qaelena/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:lenaqa94@gmail.com)
+
 ---
 ### 🤝 Социальные сети:
 
@@ -22,14 +23,24 @@
 
 ---
 
-### My CV
+### Моё резюме
 <div>
 <a href="https://myresume.ru/resume/hxASpHRUSRK/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/128/6186/6186195.png" width="40" height="40" alt="linkedin" />
       </div>
-  
----
 
+---
+### Примеры моей документации
+<div id="doc">
+    <a href="https://github.com/LenaQA94/checklist" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/128/2666/2666505.png" width="40" height="40" alt="linkedin" />
+    </a>
+    <a href="https://github.com/LenaQA94/test-case" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/128/10492/10492963.png" width="40" height="40" alt="telegram" />
+    </a>
+  </div>
+
+---
 ### 📁 Тестовая документация:
 
 <div>
@@ -65,5 +76,3 @@
   </div>
 
 ---
-
-
