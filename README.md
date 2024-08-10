@@ -31,11 +31,10 @@
 
 ---
 ### Примеры моей документации:
-Чек-лист<div id="doc">
+<div id="doc">
      <p><a href="https://github.com/LenaQA94/checklist" target="_blank">Чек-лист</p>
       </a></div>
-Тест-кейс <div> <a href="https://github.com/LenaQA94/test-case" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/128/10492/10492963.png" width="40" height="40" alt="telegram" />
+ <div> <p><a href="https://github.com/LenaQA94/test-case" target="_blank">Тест-кейс</p>
     </a></div>
   </div>
 
