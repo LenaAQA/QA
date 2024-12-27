@@ -31,7 +31,7 @@
 
 ### Моё резюме:
 <div>
-<a href="https://drive.google.com/file/d/1T8sF3iTzUdQ2KQkzg6qc-wI3_BGHT1N1/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1Bp1AEDHiYeHwjw0LqlpcmZb5L3VdG9Ek/view?usp=sharing">
       <img src="https://cdn-icons-png.flaticon.com/128/6186/6186195.png" width="40" height="40" alt="linkedin" />
       </div>
 
