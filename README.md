@@ -36,9 +36,10 @@
       </div>
 
 ---
-### Примеры моей документации:
+### Примеры моей документации:[Баг репорт Хорошевская Е.В. 07.01.2025 Coursera логотип Google.pdf]()
+
 <div id="doc">
-     <p><a href="https://github.com/LenaQA94/checklist" target="_blank">Чек-лист</p>
+     <p><a href="https://github.com/user-attachments/files/18391185/07.01.2025.Coursera.Google.pdf" target="_blank">Чек-лист</p>
       </a>
  <p><a href="https://github.com/LenaQA94/test-case" target="_blank">Тест-кейс</p>
     </a>
