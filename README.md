@@ -39,10 +39,12 @@
 ### Примеры моей документации:
 
 
+
+
 <div id="doc">
      <p><a href="https://github.com/user-attachments/files/18391190/-.Stepik.01.01.2024.xlsx" target="_blank">Чек-лист</p>
       </a>
- <p><a href="https://github.com/LenaQA94/test-case" target="_blank">Тест-кейс</p>
+ <p><a href="https://github.com/user-attachments/assets/38477d75-1dad-40e4-9b15-6689f4e0748f" target="_blank">Тест-кейс</p>
     </a>
        <p><a href="https://github.com/user-attachments/files/18391185/07.01.2025.Coursera.Google.pdf" target="_blank">Отчёт о дефекте</p>
       </a>
