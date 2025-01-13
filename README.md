@@ -41,10 +41,11 @@
 
 
 
+
 <div id="doc">
      <p><a href="https://github.com/user-attachments/files/18391190/-.Stepik.01.01.2024.xlsx" target="_blank">Чек-лист</p>
       </a>
- <p><a href="https://github.com/user-attachments/assets/4cfd6d94-f73e-4b78-956b-bc422d6a5adf" target="_blank">Тест-кейс</p>
+ <p><a href="https://github.com/user-attachments/assets/0362b780-79f3-4016-a938-9dff4b3eb819" target="_blank">Тест-кейс</p>
     </a>
        <p><a href="https://github.com/user-attachments/files/18391185/07.01.2025.Coursera.Google.pdf" target="_blank">Отчёт о дефекте</p>
       </a>
