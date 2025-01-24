@@ -45,8 +45,9 @@
 
 
 
+
 <div id="doc">
-     <p><a href="https://github.com/user-attachments/files/18396317/-.Stepik.01.01.2024.xlsx">Чек-лист</p>
+     <p><a href="https://github.com/user-attachments/files/18536944/-.Stepik.20.01.2024.xlsx">Чек-лист</p>
       </a>
  <p><a href="https://github.com/user-attachments/assets/0362b780-79f3-4016-a938-9dff4b3eb819" target="_blank">Тест-кейс</p>
     </a>
