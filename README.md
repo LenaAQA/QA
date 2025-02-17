@@ -71,7 +71,7 @@
   <img src="https://icon.icepanel.io/Technology/svg/Postman.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp
   <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="40" height="40"/>&nbsp
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
-   <img src="https://icon-icons.com/icons2/1381/PNG/512/charlesproxy_94518.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
+   <img src="https://github.com/user-attachments/assets/4b205a3f-0590-4465-8fe5-1f5a2d735a4e" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
 </div>
 
 ---
