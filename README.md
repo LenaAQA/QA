@@ -56,11 +56,11 @@
 
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="50" height="50"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="45" height="45"/>&nbsp
   <img src="https://github.com/user-attachments/assets/9e50a826-e10b-4de8-81f2-b38dfe4cc06b" title="confluence" alt="confluence" width="40" height="40"/>&nbsp
   <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="test-it" alt="test-it" width="40" height="40"/>&nbsp
   <img src="https://github.com/user-attachments/assets/b5093ee6-6e76-4b48-b468-09caf8d8e46f" title="google sheets" alt="google sheets" width="40" height="40"/>&nbsp
-  <img src="https://github.com/user-attachments/assets/c77b2248-482a-4f54-a6dc-be58845d5bee" title="excel" alt="excel" width="50" height="50"/>&nbsp  
+  <img src="https://github.com/user-attachments/assets/c77b2248-482a-4f54-a6dc-be58845d5bee" title="excel" alt="excel" width="45" height="45"/>&nbsp  
     </div>
 
 ---
