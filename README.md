@@ -14,19 +14,22 @@
 Буду рада возможности рассказать о себе подробнее на собеседовании.
 </p>
 
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pireseduardo/)](https://www.linkedin.com/in/qaelena/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:lenaqa94@gmail.com)
+- 📫 Как связаться со мной:
 
 ---
-### 🤝 Социальные сети:
+### 📫  Как связаться со мной:
 
   <div id="badges">
+     <a href="https://t.me/QAEngineer2" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="50" height="50" alt="telegram" />
+    </a>
+      <a href="mailto:lenaqa94@gmail.com" target="_blank">
+      <img src="https://github.com/user-attachments/assets/bdff4d62-3b4e-46a2-870e-00f882c3bb2a" width="50" height="50" alt="gmail" />
+    </a>
     <a href="https://www.linkedin.com/in/qaelena/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="50" height="50" alt="linkedin" />
     </a>
-    <a href="https://t.me/QAEngineer2" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="50" height="50" alt="telegram" />
-    </a>
-  </div>
+     </div>
 
 ---
 
