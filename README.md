@@ -24,7 +24,7 @@
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="50" height="50" alt="telegram" />
     </a>
       <a href="mailto:lenaqa94@gmail.com" target="_blank">
-      <img src="https://github.com/user-attachments/assets/bdff4d62-3b4e-46a2-870e-00f882c3bb2a" width="50" height="50" alt="gmail" />
+      <img src="https://github.com/user-attachments/assets/21ff9445-3256-47ff-a55a-0df7a08016cd" width="50" height="50" alt="gmail" />
     </a>
     <a href="https://www.linkedin.com/in/qaelena/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="50" height="50" alt="linkedin" />
