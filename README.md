@@ -35,16 +35,25 @@
 ### Моё резюме:
 
 <div>
-<a href="https://drive.google.com/file/d/1h2VAPC6ne4_YRI_pzNCMGjSsZirURCFH/view?usp=sharing">
-      <img src="https://cdn-icons-png.flaticon.com/128/6186/6186195.png" width="50" height="50" alt="linkedin" />
+<a href="https://drive.google.com/file/d/1h2VAPC6ne4_YRI_pzNCMGjSsZirURCFH/view?usp=sharing" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/128/6186/6186195.png" width="50" height="50" alt="cv" />
       </div>
+---
+### 🎓 Пройденные курсы:
 
+<div>
+<a href="https://github.com/user-attachments/files/19128280/default.pdf" target="_blank">
+     📜 «Тестирование ПО с нуля. Теория + Практика» />
+<a href="https://github.com/user-attachments/files/19128351/default.pdf" target="_blank">
+     📜 «Основы верстки сайта» />
+      </div>
+  
 ---
 ### Примеры моей документации:
 
 
 <div id="doc">
-     <p><a href="https://github.com/user-attachments/files/18833082/-.Stepik.20.01.2024.xlsx">Чек-лист</p>
+     <p><a href="https://github.com/user-attachments/files/18833082/-.Stepik.20.01.2024.xlsx" target="_blank">Чек-лист</p>
       </a>
  <p><a href="https://github.com/user-attachments/assets/0362b780-79f3-4016-a938-9dff4b3eb819" target="_blank">Тест-кейс</p>
     </a>
