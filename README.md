@@ -76,7 +76,7 @@
   <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="50" height="50"/>&nbsp
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="50" height="50"/>&nbsp
    <img src="https://github.com/user-attachments/assets/4b205a3f-0590-4465-8fe5-1f5a2d735a4e" title="charles-proxy" alt="charles-proxy" width="50" height="50"/>&nbsp
-   <img src="https://github.com/user-attachments/assets/bb81eb3b-66d7-4a97-8380-d84bed5f682a" title="git" alt="git" width="50" height="50"/>&nbsp
+   <img src="https://github.com/user-attachments/assets/521567df-d3f3-4921-b2fc-1cf3d8a9cbf3" title="git" alt="git" width="50" height="50"/>&nbsp
   <img src="https://github.com/user-attachments/assets/00fd733b-81a4-4413-9277-c182e2aac827" title="github" alt="github" width="50" height="50"/>&nbsp
 </div>
 
