@@ -21,10 +21,10 @@
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/qaelena/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
+      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="50" height="50" alt="linkedin" />
     </a>
     <a href="https://t.me/QAEngineer2" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="50" height="50" alt="telegram" />
     </a>
   </div>
 
@@ -34,7 +34,7 @@
 
 <div>
 <a href="https://drive.google.com/file/d/1h2VAPC6ne4_YRI_pzNCMGjSsZirURCFH/view?usp=sharing">
-      <img src="https://cdn-icons-png.flaticon.com/128/6186/6186195.png" width="40" height="40" alt="linkedin" />
+      <img src="https://cdn-icons-png.flaticon.com/128/6186/6186195.png" width="50" height="50" alt="linkedin" />
       </div>
 
 ---
@@ -56,22 +56,22 @@
 
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="45" height="45"/>&nbsp
-  <img src="https://github.com/user-attachments/assets/9e50a826-e10b-4de8-81f2-b38dfe4cc06b" title="confluence" alt="confluence" width="40" height="40"/>&nbsp
-  <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="test-it" alt="test-it" width="40" height="40"/>&nbsp
-  <img src="https://github.com/user-attachments/assets/b5093ee6-6e76-4b48-b468-09caf8d8e46f" title="google sheets" alt="google sheets" width="40" height="40"/>&nbsp
-  <img src="https://github.com/user-attachments/assets/c77b2248-482a-4f54-a6dc-be58845d5bee" title="excel" alt="excel" width="45" height="45"/>&nbsp  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="55" height="55"/>&nbsp
+  <img src="https://github.com/user-attachments/assets/9e50a826-e10b-4de8-81f2-b38dfe4cc06b" title="confluence" alt="confluence" width="50" height="50"/>&nbsp
+  <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="test-it" alt="test-it" width="50" height="50"/>&nbsp
+  <img src="https://github.com/user-attachments/assets/b5093ee6-6e76-4b48-b468-09caf8d8e46f" title="google sheets" alt="google sheets" width="50" height="50"/>&nbsp
+  <img src="https://github.com/user-attachments/assets/c77b2248-482a-4f54-a6dc-be58845d5bee" title="excel" alt="excel" width="55" height="55"/>&nbsp  
     </div>
 
 ---
 ### 🛠 Инструменты:
 
 <div>
-  <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
-  <img src="https://icon.icepanel.io/Technology/svg/Postman.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp
-  <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="40" height="40"/>&nbsp
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
-   <img src="https://github.com/user-attachments/assets/4b205a3f-0590-4465-8fe5-1f5a2d735a4e" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
+  <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="50" height="50"/>&nbsp
+  <img src="https://icon.icepanel.io/Technology/svg/Postman.svg" title="postman" alt="postman" width="50" height="50"/>&nbsp
+  <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="50" height="50"/>&nbsp
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="50" height="50"/>&nbsp
+   <img src="https://github.com/user-attachments/assets/4b205a3f-0590-4465-8fe5-1f5a2d735a4e" title="charles-proxy" alt="charles-proxy" width="50" height="50"/>&nbsp
 </div>
 
 ---
@@ -81,8 +81,8 @@
 
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql command line" alt="mysql command line" width="40" height="40"/>&nbsp
-  <img src="https://github.com/user-attachments/assets/a22f6701-df80-41de-91a9-1756851b9a97" title="mysql workbench" alt="mysql workbench" width="40" height="40"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql command line" alt="mysql command line" width="50" height="50"/>&nbsp
+  <img src="https://github.com/user-attachments/assets/a22f6701-df80-41de-91a9-1756851b9a97" title="mysql workbench" alt="mysql workbench" width="50" height="50"/>&nbsp
   </div>
 
 ---
