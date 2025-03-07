@@ -82,13 +82,14 @@
 
 
 
+
 <div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="50" height="50"/>&nbsp
   <img src="https://icon.icepanel.io/Technology/svg/Postman.svg" title="postman" alt="postman" width="50" height="50"/>&nbsp
   <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="50" height="50"/>&nbsp
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="50" height="50"/>&nbsp
    <img src="https://github.com/user-attachments/assets/4b205a3f-0590-4465-8fe5-1f5a2d735a4e" title="charles-proxy" alt="charles-proxy" width="50" height="50"/>&nbsp
-   <img src="https://github.com/user-attachments/assets/521567df-d3f3-4921-b2fc-1cf3d8a9cbf3" title="git" alt="git" width="50" height="50"/>&nbsp
+   <img src="https://github.com/user-attachments/assets/d365f52c-62cf-42d1-8df0-6c1f607cd0bf" title="git" alt="git" width="50" height="50"/>&nbsp
   <img src="https://github.com/user-attachments/assets/00fd733b-81a4-4413-9277-c182e2aac827" title="github" alt="github" width="50" height="50"/>&nbsp
 </div>
 
