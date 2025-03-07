@@ -79,8 +79,10 @@
 
 ### 💾 Работа с данными:
 
+
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql command line" alt="mysql command line" width="40" height="40"/>&nbsp
+  <img src="https://github.com/user-attachments/assets/a22f6701-df80-41de-91a9-1756851b9a97" title="mysql workbench" alt="mysql workbench" width="40" height="40"/>&nbsp
   </div>
 
 ---
