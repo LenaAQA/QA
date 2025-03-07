@@ -45,9 +45,9 @@
 
 <div>
 <p> 📜 <a href="https://github.com/user-attachments/files/19128280/default.pdf" target="_blank">
-      «Тестирование ПО с нуля. Теория + Практика» ></p>
+      «Тестирование ПО с нуля. Теория + Практика» </p>
 <p> 📜 <a href="https://github.com/user-attachments/files/19128351/default.pdf" target="_blank">
-      «Основы верстки сайта» ></p>
+      «Основы верстки сайта» </p>
       </div>
   
 ---
