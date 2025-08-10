@@ -83,10 +83,10 @@
 ###  💡 Тестовые артефакты:
 
 
-- 🌟 [Чек-лист Stepik Поиск 20.01.2024 Хорошевская Е.В](https://github.com/LenaAQA/documentation/blob/main/%D0%A7%D0%B5%D0%BA-%D0%BB%D0%B8%D1%81%D1%82_Stepik_%D0%9F%D0%BE%D0%B8%D1%81%D0%BA_20.01.2024_%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%20%D0%95.%D0%92.xlsx)
-- 🌟 [Тест-кейс TestIT](https://github.com/LenaAQA/documentation/blob/main/Test_case_TestIT.png)
-- 🌟 [Отчёт о дефекте 07.01.2025 Coursera Google](https://github.com/LenaAQA/documentation/blob/main/07.01.2025_Coursera_Google_bug_report.pdf)
-- 🌟 [Тестовое задание Python, SQL](https://github.com/LenaAQA/documentation/blob/main/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_Python%2C%20SQL.pdf)
+- 🌟 [Чек-лист Stepik Поиск.xlsx](https://github.com/LenaAQA/documentation/blob/main/Чек-лист%20Stepik%20Поиск.xlsx)
+- 🌟 [Тест-кейс TestIT.jpg](https://github.com/LenaAQA/documentation/blob/main/Тест-кейс%20TestIT.jpg)
+- 🌟 [Отчёт о дефекте Coursera Google 07.01.2025.pdf](https://github.com/LenaAQA/documentation/blob/main/Отчёт%20о%20дефекте%20Coursera%20Google%2007.01.2025.pdf)
+- 🌟 [Тестовое задание Python, SQL.pdf](https://github.com/LenaAQA/documentation/blob/main/Тестовое%20задание%20Python%2C%20SQL.pdf)
 
 ---
 ### 📁 Документация:
