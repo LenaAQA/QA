@@ -84,10 +84,10 @@
 
 
 <div id="doc">
-  <p>🌟 <a href="https://raw.githubusercontent.com/LenaAQA/documentation/main/Чек-лист%20Stepik%20Поиск.xlsx" target="_blank" rel="noopener noreferrer">Чек-лист Stepik Поиск.xlsx</a></p>
-  <p>🌟 <a href="https://raw.githubusercontent.com/LenaAQA/documentation/main/Тест-кейс%20TestIT.jpg" target="_blank" rel="noopener noreferrer">Тест-кейс TestIT.jpg</a></p>
-  <p>🌟 <a href="https://raw.githubusercontent.com/LenaAQA/documentation/main/Отчёт%20о%20дефекте%20Coursera%20Google%2007.01.2025.pdf" target="_blank" rel="noopener noreferrer">Отчёт о дефекте Coursera Google 07.01.2025.pdf</a></p>
-  <p>🌟 <a href="https://raw.githubusercontent.com/LenaAQA/documentation/main/Тестовое%20задание%20Python%2C%20SQL.pdf" target="_blank" rel="noopener noreferrer">Тестовое задание Python, SQL.pdf</a></p>
+  <p>🌟 <a href="https://docs.google.com/spreadsheets/d/1WN-gwXvxlP9jwAB1CxSssDiD3xom-8ce/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Чек-лист Stepik Поиск.xlsx</a></p>
+  <p>🌟 <a href="https://drive.google.com/file/d/133iMN5WR2oZ8Zf9DVd3Gj1GmYxX-ceCr/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Тест-кейс TestIT.jpg</a></p>
+  <p>🌟 <a href="https://drive.google.com/file/d/1meTdyzK59GFpI0td-_34rZNxI8DWYmmP/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Отчёт о дефекте Coursera Google 07.01.2025.pdf</a></p>
+  <p>🌟 <a href="https://drive.google.com/file/d/1ct8QoDS5MSSkKjqrN55jqyWfVthhi4J9/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Тестовое задание Python, SQL.pdf</a></p>
 </div>
 
 ---
