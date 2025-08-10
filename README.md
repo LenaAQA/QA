@@ -83,10 +83,12 @@
 ###  💡 Тестовые артефакты:
 
 
-- 🌟 [Чек-лист Stepik Поиск.xlsx](https://github.com/LenaAQA/documentation/blob/main/Чек-лист%20Stepik%20Поиск.xlsx)
-- 🌟 [Тест-кейс TestIT.jpg](https://github.com/LenaAQA/documentation/blob/main/Тест-кейс%20TestIT.jpg)
-- 🌟 [Отчёт о дефекте Coursera Google 07.01.2025.pdf](https://github.com/LenaAQA/documentation/blob/main/Отчёт%20о%20дефекте%20Coursera%20Google%2007.01.2025.pdf)
-- 🌟 [Тестовое задание Python, SQL.pdf](https://github.com/LenaAQA/documentation/blob/main/Тестовое%20задание%20Python%2C%20SQL.pdf)
+<div id="doc">
+  <p>🌟 <a href="https://raw.githubusercontent.com/LenaAQA/documentation/main/Чек-лист%20Stepik%20Поиск.xlsx" target="_blank" rel="noopener noreferrer">Чек-лист Stepik Поиск.xlsx</a></p>
+  <p>🌟 <a href="https://raw.githubusercontent.com/LenaAQA/documentation/main/Тест-кейс%20TestIT.jpg" target="_blank" rel="noopener noreferrer">Тест-кейс TestIT.jpg</a></p>
+  <p>🌟 <a href="https://raw.githubusercontent.com/LenaAQA/documentation/main/Отчёт%20о%20дефекте%20Coursera%20Google%2007.01.2025.pdf" target="_blank" rel="noopener noreferrer">Отчёт о дефекте Coursera Google 07.01.2025.pdf</a></p>
+  <p>🌟 <a href="https://raw.githubusercontent.com/LenaAQA/documentation/main/Тестовое%20задание%20Python%2C%20SQL.pdf" target="_blank" rel="noopener noreferrer">Тестовое задание Python, SQL.pdf</a></p>
+</div>
 
 ---
 ### 📁 Документация:
