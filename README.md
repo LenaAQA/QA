@@ -83,35 +83,13 @@
 ###  💡 Тестовые артефакты:
 
 
-<div id="doc">
-  <p>🌟 <a href="https://docs.google.com/spreadsheets/d/1WN-gwXvxlP9jwAB1CxSssDiD3xom-8ce/edit?usp=sharing"
-         target="_blank"
-         rel="noopener noreferrer"
-         onclick="window.open(this.href, '_blank'); return false;">
-         Чек-лист Stepik Поиск.xlsx
-     </a></p>
+📄 <a href="https://docs.google.com/spreadsheets/d/1WN-gwXvxlP9jwAB1CxSssDiD3xom-8ce/edit?usp=sharing" target="_blank">Чек-лист Stepik Поиск</a>  
 
-  <p>🌟 <a href="https://drive.google.com/file/d/133iMN5WR2oZ8Zf9DVd3Gj1GmYxX-ceCr/view?usp=drive_link"
-         target="_blank"
-         rel="noopener noreferrer"
-         onclick="window.open(this.href, '_blank'); return false;">
-         Тест-кейс TestIT.jpg
-     </a></p>
+📄 <a href="https://drive.google.com/file/d/133iMN5WR2oZ8Zf9DVd3Gj1GmYxX-ceCr/view?usp=drive_link" target="_blank">Отчёт о дефекте Coursera Google</a>  
 
-  <p>🌟 <a href="https://drive.google.com/file/d/1meTdyzK59GFpI0td-_34rZNxI8DWYmmP/view?usp=drive_link"
-         target="_blank"
-         rel="noopener noreferrer"
-         onclick="window.open(this.href, '_blank'); return false;">
-         Отчёт о дефекте Coursera Google 07.01.2025.pdf
-     </a></p>
+📄 <a href="https://drive.google.com/file/d/1meTdyzK59GFpI0td-_34rZNxI8DWYmmP/view?usp=drive_link" target="_blank">Тестовое задание Python, SQL</a>  
 
-  <p>🌟 <a href="https://drive.google.com/file/d/1ct8QoDS5MSSkKjqrN55jqyWfVthhi4J9/view?usp=drive_link"
-         target="_blank"
-         rel="noopener noreferrer"
-         onclick="window.open(this.href, '_blank'); return false;">
-         Тестовое задание Python, SQL.pdf
-     </a></p>
-</div>
+📄 <a href="https://drive.google.com/file/d/1ct8QoDS5MSSkKjqrN55jqyWfVthhi4J9/view?usp=drive_link" target="_blank">Тест-кейс TestIT</a>  
 
 ---
 ### 📁 Документация:
