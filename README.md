@@ -107,17 +107,25 @@
 ---
 ### 🛠 Инструменты:
 
+<div>
+  <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="DevTools" alt="DevTools" width="50" height="50"/>&nbsp
+  <img src="https://icon.icepanel.io/Technology/svg/Postman.svg" title="Postman" alt="Postman" width="50" height="50"/>&nbsp
+  <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="SoapUI" alt="SoapUI" width="50" height="50"/>&nbsp
+  <img src="https://github.com/user-attachments/assets/f689c1da-4b7d-47a1-80d2-0e29a21034a3" title="Android Studio" alt="Android Studio" width="50" height="50"/>&nbsp
+  <img src="https://github.com/user-attachments/assets/bb877f1a-3b2c-4a0b-ae82-9b4c8440373e" title="Charles Proxy" alt="Charles Proxy" width="50" height="50"/>&nbsp
+</div>
 
+---
 
+### 💻 Работа с кодом:
 
 <div>
-  <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="50" height="50"/>&nbsp
-  <img src="https://icon.icepanel.io/Technology/svg/Postman.svg" title="postman" alt="postman" width="50" height="50"/>&nbsp
-  <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="50" height="50"/>&nbsp
-   <img src="https://github.com/user-attachments/assets/f689c1da-4b7d-47a1-80d2-0e29a21034a3" title="android-studio" alt="android-studio" width="50" height="50"/>&nbsp
-   <img src="https://github.com/user-attachments/assets/bb877f1a-3b2c-4a0b-ae82-9b4c8440373e" title="charles-proxy" alt="charles-proxy" width="50" height="50"/>&nbsp
-   <img src="https://github.com/user-attachments/assets/d365f52c-62cf-42d1-8df0-6c1f607cd0bf" title="git" alt="git" width="50" height="50"/>&nbsp
-  <img src="https://github.com/user-attachments/assets/00fd733b-81a4-4413-9277-c182e2aac827" title="github" alt="github" width="50" height="50"/>&nbsp
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="50" height="50"/>&nbsp
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="50" height="50"/>&nbsp
+  <img src="https://cdn.iconscout.com/icon/free/png-256/pytest-14-461486.png" title="Pytest" alt="Pytest" width="50" height="50"/>&nbsp
+  <img src="https://github.com/user-attachments/assets/d365f52c-62cf-42d1-8df0-6c1f607cd0bf" title="Git" alt="Git" width="50" height="50"/>&nbsp
+  <img src="https://github.com/user-attachments/assets/00fd733b-81a4-4413-9277-c182e2aac827" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp
 </div>
 
 ---
