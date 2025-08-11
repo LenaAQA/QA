@@ -70,7 +70,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;● 📄 [Домашние задания к курсу](https://github.com/LenaAQA/red-rover-school-homework) 
 
 📜 Selenium на Python от Алексея Коледачкина  
-&nbsp;&nbsp;&nbsp;&nbsp;● [Сертификат](https://drive.google.com/file/d/1HDbzhh3JODVSXXpM5-DP-hZV7hHGv0UA/view?usp=drive_link) 
+&nbsp;&nbsp;&nbsp;&nbsp;● [Сертификат](https://drive.google.com/file/d/1HDbzhh3JODVSXXpM5-DP-hZV7hHGv0UA/view?usp=drive_link)  
 &nbsp;&nbsp;&nbsp;&nbsp;● [Решённые задания к курсу "Selenium на Python"](https://github.com/LenaAQA/selenium-python-from-koledachkin) 
 
 📜 Инди-курс программирования на Python  
