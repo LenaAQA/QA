@@ -68,35 +68,29 @@
 
 <h2>🎓 Пройденные курсы:</h2>
 
-<h3>📜 Автоматизация тестирования на Python (Selenium и Pytest) (RedRover.School)</h3>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● <a href="https://drive.google.com/file/d/1HDbzhh3JODVSXXpM5-DP-hZV7hHGv0UA/view?usp=drive_link" target="_blank">Сертификат</a>
+📜 Автоматизация тестирования на Python (Selenium и Pytest) (RedRover.School)  
+&nbsp;&nbsp;&nbsp;&nbsp;● [Сертификат](https://drive.google.com/file/d/1HDbzhh3JODVSXXpM5-DP-hZV7hHGv0UA/view?usp=drive_link)  
 
-<h3>📜 Selenium на Python от Алексея Коледачкина</h3>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● <a href="https://drive.google.com/file/d/..." target="_blank">Сертификат</a>
+📜 Selenium на Python от Алексея Коледачкина  
+&nbsp;&nbsp;&nbsp;&nbsp;● [Сертификат](https://drive.google.com/file/d/...)  
 
-<h3>📜 Инди-курс программирования на Python</h3>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● <a href="https://drive.google.com/file/d/1IfJXotO55t2BIY8F5maNpFAGR1YMx-m-/view?usp=drive_link" target="_blank">Сертификат</a>
+📜 Инди-курс программирования на Python  
+&nbsp;&nbsp;&nbsp;&nbsp;● [Сертификат](https://drive.google.com/file/d/1IfJXotO55t2BIY8F5maNpFAGR1YMx-m-/view?usp=drive_link)  
 
-<h3>📜 Тестирование ПО с нуля. Теория + Практика (Курс Артёма Русова)</h3>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● <a href="https://drive.google.com/file/d/1JBV3N70f2Qokpq-BfWgYLYIgbUhjgLk6/view?usp=drive_link" target="_blank">Сертификат</a>
+📜 Тестирование ПО с нуля. Теория + Практика (Курс Артёма Русова)  
+&nbsp;&nbsp;&nbsp;&nbsp;● [Сертификат](https://drive.google.com/file/d/1JBV3N70f2Qokpq-BfWgYLYIgbUhjgLk6/view?usp=drive_link)  
+
+&nbsp;&nbsp;&nbsp;&nbsp;● **Тестовые артефакты:**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📄 [Чек-лист Stepik Поиск](https://docs.google.com/spreadsheets/d/1WN-gwXvxlP9jwAB1CxSssDiD3xom-8ce/edit?usp=sharing)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📄 [Отчёт о дефекте Coursera Google](https://drive.google.com/file/d/133iMN5WR2oZ8Zf9DVd3Gj1GmYxX-ceCr/view?usp=drive_link)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📄 [Тестовое задание Python, SQL](https://drive.google.com/file/d/1meTdyzK59GFpI0td-_34rZNxI8DWYmmP/view?usp=drive_link)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📄 [Тест-кейс TestIT](https://drive.google.com/file/d/1ct8QoDS5MSSkKjqrN55jqyWfVthhi4J9/view?usp=drive_link)  
 
 <h3>📜 Интерактивный тренажер по SQL (Дальневосточный федеральный университет, Stepik)</h3>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● <a href="https://drive.google.com/file/d/1YhWicbKstmbMlk9DMMe9i_ACazif4eif/view?usp=drive_link" target="_blank">Сертификат</a>
 
 <h3>📜 Основы верстки сайта (Нетология)</h3>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● <a href="https://drive.google.com/file/d/1YhWicbKstmbMlk9DMMe9i_ACazif4eif/view?usp=drive_link" target="_blank">Сертификат</a>
-
----
-
-<h2>💡 Тестовые артефакты:</h2>
-
-📄 <a href="https://docs.google.com/spreadsheets/d/1WN-gwXvxlP9jwAB1CxSssDiD3xom-8ce/edit?usp=sharing" target="_blank">Чек-лист Stepik Поиск</a>  
-
-📄 <a href="https://drive.google.com/file/d/133iMN5WR2oZ8Zf9DVd3Gj1GmYxX-ceCr/view?usp=drive_link" target="_blank">Отчёт о дефекте Coursera Google</a>  
-
-📄 <a href="https://drive.google.com/file/d/1meTdyzK59GFpI0td-_34rZNxI8DWYmmP/view?usp=drive_link" target="_blank">Тестовое задание Python, SQL</a>  
-
-📄 <a href="https://drive.google.com/file/d/1ct8QoDS5MSSkKjqrN55jqyWfVthhi4J9/view?usp=drive_link" target="_blank">Тест-кейс TestIT</a>  
 
 ---
 
