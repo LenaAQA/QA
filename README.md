@@ -85,11 +85,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📄 [Тестовое задание Python, SQL](https://drive.google.com/file/d/1meTdyzK59GFpI0td-_34rZNxI8DWYmmP/view?usp=drive_link)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📄 [Тест-кейс TestIT](https://drive.google.com/file/d/1ct8QoDS5MSSkKjqrN55jqyWfVthhi4J9/view?usp=drive_link)  
 
-📜 Интерактивный тренажер по SQL (Дальневосточный федеральный университет, Stepik)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● <a href="https://drive.google.com/file/d/16n6CZg9UvUY1W31mYxFb3SYbsM-0fVo_/view?usp=drive_link" target="_blank">Сертификат</a>
+📜 Интерактивный тренажер по SQL (Дальневосточный федеральный университет, Stepik)  
+&nbsp;&nbsp;&nbsp;&nbsp;● [Сертификат](https://drive.google.com/file/d/16n6CZg9UvUY1W31mYxFb3SYbsM-0fVo_/view?usp=drive_link)  
 
-📜 Основы верстки сайта (Нетология)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● <a href="https://drive.google.com/file/d/1YhWicbKstmbMlk9DMMe9i_ACazif4eif/view?usp=drive_link" target="_blank">Сертификат</a>
+📜 Основы верстки сайта (Нетология)  
+&nbsp;&nbsp;&nbsp;&nbsp;● [Сертификат](https://drive.google.com/file/d/1YhWicbKstmbMlk9DMMe9i_ACazif4eif/view?usp=drive_link)  
 
 ---
 
