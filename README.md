@@ -25,7 +25,7 @@
 
 ---
 
-### 👨‍💻 Обо мне:
+<h2>👨‍💻 Обо мне:</h2>
 
 <p align="justify">У меня есть теоретическая база в области тестирования программного обеспечения, и я полна энтузиазма развиваться в этой сфере.<br> 
 Я окончила образовательный курс Артёма Русова «Тестирование ПО с нуля. Теория + Практика», где изучила основы тестирования, а также получила навыки работы с инструментами DevTools, JIRA, Confluence, Test IT, Postman, SOAPUI, Charles Proxy, MySQL, Android Studio, Git, Bash.  <br> 
@@ -38,62 +38,57 @@
 Буду рада возможности рассказать о себе подробнее на собеседовании.
 </p>
 
+---
 
+<h2>📫  Как связаться со мной:</h2>
 
-
+<div id="badges">
+  <a href="https://t.me/QAEngineer2" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="50" height="50" alt="telegram" />
+  </a>
+  <a href="mailto:lenaqa94@gmail.com" target="_blank">
+    <img src="https://github.com/user-attachments/assets/21ff9445-3256-47ff-a55a-0df7a08016cd" width="50" height="50" alt="gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/qaelena/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="50" height="50" alt="linkedin" />
+  </a>
+</div>
 
 ---
 
-### 📫  Как связаться со мной:
-
-  <div id="badges">
-     <a href="https://t.me/QAEngineer2" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="50" height="50" alt="telegram" />
-    </a>
-      <a href="mailto:lenaqa94@gmail.com" target="_blank">
-      <img src="https://github.com/user-attachments/assets/21ff9445-3256-47ff-a55a-0df7a08016cd" width="50" height="50" alt="gmail" />
-    </a>
-    <a href="https://www.linkedin.com/in/qaelena/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="50" height="50" alt="linkedin" />
-    </a>
-     </div>
-
----
-
-### Моё резюме:
+<h2>Моё резюме:</h2>
 
 <div>
-<a href="https://drive.google.com/file/d/1h2VAPC6ne4_YRI_pzNCMGjSsZirURCFH/view?usp=sharing" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/128/6186/6186195.png" width="50" height="50" alt="cv" />
-      </div>
-  
----
-  
-### 🎓 Пройденные курсы:
+  <a href="https://drive.google.com/file/d/1h2VAPC6ne4_YRI_pzNCMGjSsZirURCFH/view?usp=sharing" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/128/6186/6186195.png" width="50" height="50" alt="cv" />
+  </a>
+</div>
 
-<div>
-<p> 📜 "Автоматизация тестирования на Python с использованием Selenium и Pytest" (RedRover.School)</p>
-<p> 📜 "Selenium на Python от Алексея Коледачкина"</p>  
-<p> <a href="https://drive.google.com/file/d/1HDbzhh3JODVSXXpM5-DP-hZV7hHGv0UA/view?usp=drive_link" target="_blank">
-      Сертификат</p>
-<p> 📜 "Инди-курс программирования на Python"</p>  
-<p> <a href="https://drive.google.com/file/d/1IfJXotO55t2BIY8F5maNpFAGR1YMx-m-/view?usp=drive_link" target="_blank">
-      Сертификат</p>
-<p> 📜 ""Тестирование ПО с нуля. Теория + Практика" (Курс Артёма Русова)</p>
-<p> <a href="https://drive.google.com/file/d/1JBV3N70f2Qokpq-BfWgYLYIgbUhjgLk6/view?usp=drive_link" target="_blank">
-      Сертификат</p>
-<p> 📜 "Интерактивный тренажер по SQL" (Дальневосточный федеральный университет, Stepik)</p>
-<p> <a href="https://drive.google.com/file/d/1YhWicbKstmbMlk9DMMe9i_ACazif4eif/view?usp=drive_link" target="_blank">
-      Сертификат</p>
-<p> 📜 "Основы верстки сайта" (Нетология)</p>
-<p> <a href="https://drive.google.com/file/d/1YhWicbKstmbMlk9DMMe9i_ACazif4eif/view?usp=drive_link" target="_blank">
-      Сертификат</p>
-      </div>
-  
 ---
 
-###  💡 Тестовые артефакты:
+<h2>🎓 Пройденные курсы:</h2>
 
+<h3>📜 Автоматизация тестирования на Python с использованием Selenium и Pytest (RedRover.School)</h3>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● <a href="https://drive.google.com/file/d/1HDbzhh3JODVSXXpM5-DP-hZV7hHGv0UA/view?usp=drive_link" target="_blank">Сертификат</a>
+
+<h3>📜 Selenium на Python от Алексея Коледачкина</h3>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● <a href="https://drive.google.com/file/d/..." target="_blank">Сертификат</a>
+
+<h3>📜 Инди-курс программирования на Python</h3>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● <a href="https://drive.google.com/file/d/1IfJXotO55t2BIY8F5maNpFAGR1YMx-m-/view?usp=drive_link" target="_blank">Сертификат</a>
+
+<h3>📜 Тестирование ПО с нуля. Теория + Практика (Курс Артёма Русова)</h3>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● <a href="https://drive.google.com/file/d/1JBV3N70f2Qokpq-BfWgYLYIgbUhjgLk6/view?usp=drive_link" target="_blank">Сертификат</a>
+
+<h3>📜 Интерактивный тренажер по SQL (Дальневосточный федеральный университет, Stepik)</h3>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● <a href="https://drive.google.com/file/d/1YhWicbKstmbMlk9DMMe9i_ACazif4eif/view?usp=drive_link" target="_blank">Сертификат</a>
+
+<h3>📜 Основы верстки сайта (Нетология)</h3>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● <a href="https://drive.google.com/file/d/1YhWicbKstmbMlk9DMMe9i_ACazif4eif/view?usp=drive_link" target="_blank">Сертификат</a>
+
+---
+
+<h2>💡 Тестовые артефакты:</h2>
 
 📄 <a href="https://docs.google.com/spreadsheets/d/1WN-gwXvxlP9jwAB1CxSssDiD3xom-8ce/edit?usp=sharing" target="_blank">Чек-лист Stepik Поиск</a>  
 
@@ -104,56 +99,54 @@
 📄 <a href="https://drive.google.com/file/d/1ct8QoDS5MSSkKjqrN55jqyWfVthhi4J9/view?usp=drive_link" target="_blank">Тест-кейс TestIT</a>  
 
 ---
-### 📁 Документация:
 
-
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="55" height="55"/>&nbsp
-  <img src="https://github.com/user-attachments/assets/9e50a826-e10b-4de8-81f2-b38dfe4cc06b" title="confluence" alt="confluence" width="50" height="50"/>&nbsp
-  <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="test-it" alt="test-it" width="50" height="50"/>&nbsp
-  <img src="https://github.com/user-attachments/assets/b5093ee6-6e76-4b48-b468-09caf8d8e46f" title="google sheets" alt="google sheets" width="50" height="50"/>&nbsp
-  <img src="https://github.com/user-attachments/assets/c77b2248-482a-4f54-a6dc-be58845d5bee" title="excel" alt="excel" width="55" height="55"/>&nbsp  
-    </div>
-
----
-### 🛠 Инструменты:
+<h2>📁 Документация:</h2>
 
 <div>
-  <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="DevTools" alt="DevTools" width="50" height="50"/>&nbsp
-  <img src="https://icon.icepanel.io/Technology/svg/Postman.svg" title="Postman" alt="Postman" width="50" height="50"/>&nbsp
-  <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="SoapUI" alt="SoapUI" width="50" height="50"/>&nbsp
-  <img src="https://github.com/user-attachments/assets/f689c1da-4b7d-47a1-80d2-0e29a21034a3" title="Android Studio" alt="Android Studio" width="50" height="50"/>&nbsp
-  <img src="https://github.com/user-attachments/assets/bb877f1a-3b2c-4a0b-ae82-9b4c8440373e" title="Charles Proxy" alt="Charles Proxy" width="50" height="50"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="55" height="55"/>&nbsp;
+  <img src="https://github.com/user-attachments/assets/9e50a826-e10b-4de8-81f2-b38dfe4cc06b" title="confluence" alt="confluence" width="50" height="50"/>&nbsp;
+  <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="test-it" alt="test-it" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/user-attachments/assets/b5093ee6-6e76-4b48-b468-09caf8d8e46f" title="google sheets" alt="google sheets" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/user-attachments/assets/c77b2248-482a-4f54-a6dc-be58845d5bee" title="excel" alt="excel" width="55" height="55"/>&nbsp;  
 </div>
 
 ---
 
-### 💻 Работа с кодом:
+<h2>🛠 Инструменты:</h2>
 
 <div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="50" height="50"/>&nbsp
-
-  <img src="https://selenium.dev/images/selenium_logo_square_green.png" title="Selenium" alt="Selenium" width="50" height="50"/>&nbsp
-
-  <img src="https://avatars.githubusercontent.com/u/3159186?s=200&v=4" title="Pytest" alt="Pytest" width="50" height="50"/>&nbsp
-
-  <img src="https://github.com/user-attachments/assets/d365f52c-62cf-42d1-8df0-6c1f607cd0bf" title="Git" alt="Git" width="50" height="50"/>&nbsp
-
-  <img src="https://github.com/user-attachments/assets/00fd733b-81a4-4413-9277-c182e2aac827" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp
+  <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="DevTools" alt="DevTools" width="50" height="50"/>&nbsp;
+  <img src="https://icon.icepanel.io/Technology/svg/Postman.svg" title="Postman" alt="Postman" width="50" height="50"/>&nbsp;
+  <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="SoapUI" alt="SoapUI" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/user-attachments/assets/f689c1da-4b7d-47a1-80d2-0e29a21034a3" title="Android Studio" alt="Android Studio" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/user-attachments/assets/bb877f1a-3b2c-4a0b-ae82-9b4c8440373e" title="Charles Proxy" alt="Charles Proxy" width="50" height="50"/>&nbsp;
 </div>
 
 ---
 
-
-### 💾 Работа с данными:
-
+<h2>💻 Работа с кодом:</h2>
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql command line" alt="mysql command line" width="50" height="50"/>&nbsp
-  <img src="https://github.com/user-attachments/assets/a22f6701-df80-41de-91a9-1756851b9a97" title="mysql workbench" alt="mysql workbench" width="50" height="50"/>&nbsp
-  </div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="50" height="50"/>&nbsp;
+
+  <img src="https://selenium.dev/images/selenium_logo_square_green.png" title="Selenium" alt="Selenium" width="50" height="50"/>&nbsp;
+
+  <img src="https://avatars.githubusercontent.com/u/3159186?s=200&v=4" title="Pytest" alt="Pytest" width="50" height="50"/>&nbsp;
+
+  <img src="https://github.com/user-attachments/assets/d365f52c-62cf-42d1-8df0-6c1f607cd0bf" title="Git" alt="Git" width="50" height="50"/>&nbsp;
+
+  <img src="https://github.com/user-attachments/assets/00fd733b-81a4-4413-9277-c182e2aac827" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp;
+</div>
+
+---
+
+<h2>💾 Работа с данными:</h2>
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql command line" alt="mysql command line" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/user-attachments/assets/a22f6701-df80-41de-91a9-1756851b9a97" title="mysql workbench" alt="mysql workbench" width="50" height="50"/>&nbsp;
+</div>
 
 ---
