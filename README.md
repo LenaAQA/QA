@@ -117,11 +117,11 @@
 <h2>📁 Документация:</h2>
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="55" height="55"/>&nbsp;
-  <img src="https://github.com/user-attachments/assets/9e50a826-e10b-4de8-81f2-b38dfe4cc06b" title="confluence" alt="confluence" width="50" height="50"/>&nbsp;
-  <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="test-it" alt="test-it" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/user-attachments/assets/b5093ee6-6e76-4b48-b468-09caf8d8e46f" title="google sheets" alt="google sheets" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/user-attachments/assets/c77b2248-482a-4f54-a6dc-be58845d5bee" title="excel" alt="excel" width="55" height="55"/>&nbsp;  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="55" height="55"/>&nbsp;
+  <img src="https://github.com/user-attachments/assets/9e50a826-e10b-4de8-81f2-b38dfe4cc06b" title="Confluence" alt="Confluence" width="50" height="50"/>&nbsp;
+  <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="Test-IT" alt="Test-IT" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/user-attachments/assets/b5093ee6-6e76-4b48-b468-09caf8d8e46f" title="Google Sheets" alt="Google Sheets" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/user-attachments/assets/c77b2248-482a-4f54-a6dc-be58845d5bee" title="Excel" alt="Excel" width="55" height="55"/>&nbsp;  
 </div>
 
 ---
@@ -141,8 +141,8 @@
 <h2>💾 Работа с данными:</h2>
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql command line" alt="mysql command line" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/user-attachments/assets/a22f6701-df80-41de-91a9-1756851b9a97" title="mysql workbench" alt="mysql workbench" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL Command Line" alt="MySQL Command Line" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/user-attachments/assets/a22f6701-df80-41de-91a9-1756851b9a97" title="MySQL Workbench" alt="MySQL Workbench" width="50" height="50"/>&nbsp;
 </div>
 
 ---
