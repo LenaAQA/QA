@@ -68,7 +68,7 @@
 
 <h2>🎓 Пройденные курсы:</h2>
 
-<h3>📜 Автоматизация тестирования на Python с использованием Selenium и Pytest (RedRover.School)</h3>
+<h3>📜 Автоматизация тестирования на Python (Selenium и Pytest) (RedRover.School)</h3>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● <a href="https://drive.google.com/file/d/1HDbzhh3JODVSXXpM5-DP-hZV7hHGv0UA/view?usp=drive_link" target="_blank">Сертификат</a>
 
 <h3>📜 Selenium на Python от Алексея Коледачкина</h3>
