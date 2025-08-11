@@ -65,18 +65,18 @@
 
 <h2>🎓 Пройденные курсы:</h2>
 
-📜 Автоматизация тестирования на Python (Selenium и Pytest) (RedRover.School)  
+### 📜 Автоматизация тестирования на Python (Selenium и Pytest) (RedRover.School)  
 &nbsp;&nbsp;&nbsp;&nbsp;● 📄 [Решённые задачи на codewars.com](https://github.com/LenaAQA/codewars)  
 &nbsp;&nbsp;&nbsp;&nbsp;● 📄 [Домашние задания к курсу](https://github.com/LenaAQA/red-rover-school-homework) 
 
-📜 Selenium на Python от Алексея Коледачкина  
+### 📜 Selenium на Python от Алексея Коледачкина  
 &nbsp;&nbsp;&nbsp;&nbsp;● [Сертификат](https://drive.google.com/file/d/1HDbzhh3JODVSXXpM5-DP-hZV7hHGv0UA/view?usp=drive_link)  
 &nbsp;&nbsp;&nbsp;&nbsp;● [Решённые задания к курсу "Selenium на Python"](https://github.com/LenaAQA/selenium-python-from-koledachkin) 
 
-📜 Инди-курс программирования на Python  
+### 📜 Инди-курс программирования на Python  
 &nbsp;&nbsp;&nbsp;&nbsp;● [Сертификат](https://drive.google.com/file/d/1IfJXotO55t2BIY8F5maNpFAGR1YMx-m-/view?usp=drive_link)  
 
-📜 Тестирование ПО с нуля. Теория + Практика (Курс Артёма Русова)  
+### 📜 Тестирование ПО с нуля. Теория + Практика (Курс Артёма Русова)  
 &nbsp;&nbsp;&nbsp;&nbsp;● [Сертификат](https://drive.google.com/file/d/1JBV3N70f2Qokpq-BfWgYLYIgbUhjgLk6/view?usp=drive_link)  
 
 &nbsp;&nbsp;&nbsp;&nbsp;● Тестовые артефакты:  
@@ -85,10 +85,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📄 [Тестовое задание Python, SQL](https://drive.google.com/file/d/1meTdyzK59GFpI0td-_34rZNxI8DWYmmP/view?usp=drive_link)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📄 [Тест-кейс TestIT](https://drive.google.com/file/d/1ct8QoDS5MSSkKjqrN55jqyWfVthhi4J9/view?usp=drive_link)  
 
-📜 Интерактивный тренажер по SQL (Дальневосточный федеральный университет, Stepik)  
+### 📜 Интерактивный тренажер по SQL (Дальневосточный федеральный университет, Stepik)  
 &nbsp;&nbsp;&nbsp;&nbsp;● [Сертификат](https://drive.google.com/file/d/16n6CZg9UvUY1W31mYxFb3SYbsM-0fVo_/view?usp=drive_link)  
 
-📜 Основы верстки сайта (Нетология)  
+### 📜 Основы верстки сайта (Нетология)  
 &nbsp;&nbsp;&nbsp;&nbsp;● [Сертификат](https://drive.google.com/file/d/1YhWicbKstmbMlk9DMMe9i_ACazif4eif/view?usp=drive_link)  
 
 ---
