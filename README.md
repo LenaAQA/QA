@@ -87,6 +87,7 @@
 
 ### 📜 Интерактивный тренажер по SQL (Дальневосточный федеральный университет, Stepik)  
 &nbsp;&nbsp;&nbsp;&nbsp;● [Сертификат](https://drive.google.com/file/d/16n6CZg9UvUY1W31mYxFb3SYbsM-0fVo_/view?usp=drive_link)  
+&nbsp;&nbsp;&nbsp;&nbsp;● [Решённые задания к курсу "Интерактивный тренажер по SQL"](https://github.com/LenaAQA/home-work-course-sql) 
 
 ### 📜 Основы верстки сайта (Нетология)  
 &nbsp;&nbsp;&nbsp;&nbsp;● [Сертификат](https://drive.google.com/file/d/1YhWicbKstmbMlk9DMMe9i_ACazif4eif/view?usp=drive_link)  
