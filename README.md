@@ -73,10 +73,21 @@
 
 <div>
 <p> 📜 "Автоматизация тестирования на Python с использованием Selenium и Pytest" (RedRover.School)</p>
-<p> 📜 <a href="https://drive.google.com/file/d/1JBV3N70f2Qokpq-BfWgYLYIgbUhjgLk6/view?usp=drive_link" target="_blank">
-      "Тестирование ПО с нуля. Теория + Практика" (Курс Артёма Русова)</p>
-<p> 📜 <a href="https://drive.google.com/file/d/1YhWicbKstmbMlk9DMMe9i_ACazif4eif/view?usp=drive_link" target="_blank">
-      "Основы верстки сайта" (Нетология)</p>
+<p> 📜 "Selenium на Python от Алексея Коледачкина"</p>  
+<p> <a href="https://drive.google.com/file/d/1HDbzhh3JODVSXXpM5-DP-hZV7hHGv0UA/view?usp=drive_link" target="_blank">
+      Сертификат</p>
+<p> 📜 "Инди-курс программирования на Python"</p>  
+<p> <a href="https://drive.google.com/file/d/1IfJXotO55t2BIY8F5maNpFAGR1YMx-m-/view?usp=drive_link" target="_blank">
+      Сертификат</p>
+<p> 📜 ""Тестирование ПО с нуля. Теория + Практика" (Курс Артёма Русова)</p>
+<p> <a href="https://drive.google.com/file/d/1JBV3N70f2Qokpq-BfWgYLYIgbUhjgLk6/view?usp=drive_link" target="_blank">
+      Сертификат</p>
+<p> 📜 "Интерактивный тренажер по SQL" (Дальневосточный федеральный университет, Stepik)</p>
+<p> <a href="https://drive.google.com/file/d/1YhWicbKstmbMlk9DMMe9i_ACazif4eif/view?usp=drive_link" target="_blank">
+      Сертификат</p>
+<p> 📜 "Основы верстки сайта" (Нетология)</p>
+<p> <a href="https://drive.google.com/file/d/1YhWicbKstmbMlk9DMMe9i_ACazif4eif/view?usp=drive_link" target="_blank">
+      Сертификат</p>
       </div>
   
 ---
