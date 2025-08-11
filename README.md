@@ -100,6 +100,20 @@
 
 ---
 
+<h2>💻 Работа с кодом:</h2>
+
+
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="50" height="50"/>
+  <img src="https://selenium.dev/images/selenium_logo_square_green.png" title="Selenium" alt="Selenium" width="47" height="47"/>
+  <img src="https://github.com/user-attachments/assets/0612e977-ae90-417b-9d66-4d19b9e98c0b" title="Pytest" alt="Pytest" width="50" height="50"/>
+  <img src="https://github.com/user-attachments/assets/d365f52c-62cf-42d1-8df0-6c1f607cd0bf" title="Git" alt="Git" width="50" height="50"/>
+  <img src="https://github.com/user-attachments/assets/00fd733b-81a4-4413-9277-c182e2aac827" title="GitHub" alt="GitHub" width="50" height="50"/>
+</div>
+
+---
+
 <h2>📁 Документация:</h2>
 
 <div>
@@ -120,20 +134,6 @@
   <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="SoapUI" alt="SoapUI" width="50" height="50"/>&nbsp;
   <img src="https://github.com/user-attachments/assets/f689c1da-4b7d-47a1-80d2-0e29a21034a3" title="Android Studio" alt="Android Studio" width="50" height="50"/>&nbsp;
   <img src="https://github.com/user-attachments/assets/bb877f1a-3b2c-4a0b-ae82-9b4c8440373e" title="Charles Proxy" alt="Charles Proxy" width="50" height="50"/>&nbsp;
-</div>
-
----
-
-<h2>💻 Работа с кодом:</h2>
-
-
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="50" height="50"/>
-  <img src="https://selenium.dev/images/selenium_logo_square_green.png" title="Selenium" alt="Selenium" width="47" height="47"/>
-  <img src="https://github.com/user-attachments/assets/0612e977-ae90-417b-9d66-4d19b9e98c0b" title="Pytest" alt="Pytest" width="50" height="50"/>
-  <img src="https://github.com/user-attachments/assets/d365f52c-62cf-42d1-8df0-6c1f607cd0bf" title="Git" alt="Git" width="50" height="50"/>
-  <img src="https://github.com/user-attachments/assets/00fd733b-81a4-4413-9277-c182e2aac827" title="GitHub" alt="GitHub" width="50" height="50"/>
 </div>
 
 ---
