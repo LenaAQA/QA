@@ -69,10 +69,9 @@
 <h2>🎓 Пройденные курсы:</h2>
 
 📜 Автоматизация тестирования на Python (Selenium и Pytest) (RedRover.School)  
-&nbsp;&nbsp;&nbsp;&nbsp;● [Сертификат](https://drive.google.com/file/d/1HDbzhh3JODVSXXpM5-DP-hZV7hHGv0UA/view?usp=drive_link)  
 
 📜 Selenium на Python от Алексея Коледачкина  
-&nbsp;&nbsp;&nbsp;&nbsp;● [Сертификат](https://drive.google.com/file/d/...)  
+&nbsp;&nbsp;&nbsp;&nbsp;● [Сертификат](https://drive.google.com/file/d/1HDbzhh3JODVSXXpM5-DP-hZV7hHGv0UA/view?usp=drive_link)  
 
 📜 Инди-курс программирования на Python  
 &nbsp;&nbsp;&nbsp;&nbsp;● [Сертификат](https://drive.google.com/file/d/1IfJXotO55t2BIY8F5maNpFAGR1YMx-m-/view?usp=drive_link)  
@@ -87,7 +86,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📄 [Тест-кейс TestIT](https://drive.google.com/file/d/1ct8QoDS5MSSkKjqrN55jqyWfVthhi4J9/view?usp=drive_link)  
 
 <h3>📜 Интерактивный тренажер по SQL (Дальневосточный федеральный университет, Stepik)</h3>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● <a href="https://drive.google.com/file/d/1YhWicbKstmbMlk9DMMe9i_ACazif4eif/view?usp=drive_link" target="_blank">Сертификат</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● <a href="https://drive.google.com/file/d/16n6CZg9UvUY1W31mYxFb3SYbsM-0fVo_/view?usp=drive_link" target="_blank">Сертификат</a>
 
 <h3>📜 Основы верстки сайта (Нетология)</h3>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● <a href="https://drive.google.com/file/d/1YhWicbKstmbMlk9DMMe9i_ACazif4eif/view?usp=drive_link" target="_blank">Сертификат</a>
