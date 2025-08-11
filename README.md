@@ -73,7 +73,7 @@
 
 <div>
 <p> 📜 "Автоматизация тестирования на Python с использованием Selenium и Pytest" (RedRover.School)</p>
-<p> 📜 <a href="https://drive.google.com/file/d/1JBV3N70f2Qokpq-BfWgYLYIgbUhjgLk6/view?usp=drive_link" target="_blank">
+<p> 📜 <a href="["https://drive.google.com/file/d/1JBV3N70f2Qokpq-BfWgYLYIgbUhjgLk6/view?usp=drive_link"](https://drive.google.com/file/d/1JBV3N70f2Qokpq-BfWgYLYIgbUhjgLk6/view?usp=drive_link)" target="_blank">
       "Тестирование ПО с нуля. Теория + Практика" (Курс Артёма Русова)</p>
 <p> 📜 <a href="https://drive.google.com/file/d/1YhWicbKstmbMlk9DMMe9i_ACazif4eif/view?usp=drive_link" target="_blank">
       "Основы верстки сайта" (Нетология)</p>
