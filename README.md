@@ -69,7 +69,7 @@
   
 ---
   
-### 🎓 Пройденные курсы:[https://drive.google.com/file/d/1JBV3N70f2Qokpq-BfWgYLYIgbUhjgLk6/view?usp=drive_link]()
+### 🎓 Пройденные курсы:[]()
 
 <div>
 <p> 📜 "Автоматизация тестирования на Python с использованием Selenium и Pytest" (RedRover.School)</p>
