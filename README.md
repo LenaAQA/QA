@@ -19,16 +19,12 @@
 
 ---
 
-<h2>📫  Как связаться со мной:</h2>
+<h2>📫 Как связаться со мной:</h2>
 
-<div id="badges">
-  <a href="https://t.me/QAEngineer2" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="50" height="50" alt="telegram" />
-  </a>
-  <a href="mailto:lenaqa94@gmail.com" target="_blank">
-    <img src="https://github.com/user-attachments/assets/21ff9445-3256-47ff-a55a-0df7a08016cd" width="50" height="50" alt="gmail" />
-  </a>
-</div>
+<h3>
+  Telegram: <a href="https://t.me/QAEngineer2" target="_blank">@QAEngineer2</a> &nbsp;|&nbsp;
+  Email: <a href="mailto:lenaqa94@gmail.com">lenaqa94@gmail.com</a>
+</h3>
 
 ---
 
