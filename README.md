@@ -66,6 +66,7 @@
 <h2>🎓 Пройденные курсы:</h2>
 
 ### 📜 Автоматизация тестирования на Python (Selenium и Pytest) (RedRover.School)  
+&nbsp;&nbsp;&nbsp;&nbsp;● 📄 [Тест-кейсы](https://github.com/orgs/RedRoverSchool/projects/8/views/2?sliceBy%5Bvalue%5D=LenaAQA)  
 &nbsp;&nbsp;&nbsp;&nbsp;● 📄 [Решённые задачи на codewars.com](https://github.com/LenaAQA/codewars)  
 &nbsp;&nbsp;&nbsp;&nbsp;● 📄 [Домашние задания к курсу](https://github.com/LenaAQA/red-rover-school-homework) 
 
