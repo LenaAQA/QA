@@ -22,7 +22,7 @@
 <h2>📫 Как связаться со мной:</h2>
 
 <h3>
-  Telegram: <a href="https://t.me/QAEngineer2" target="_blank">@QAEngineer2</a> &nbsp;|&nbsp;
+  Telegram: <a href="https://t.me/AQAEngineer1" target="_blank">@AQAEngineer1</a> &nbsp;|&nbsp;
   Email: <a href="mailto:lenaqa94@gmail.com">lenaqa94@gmail.com</a>
 </h3>
 
