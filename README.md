@@ -59,7 +59,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;● [Отчёт о дефекте Coursera Google](https://drive.google.com/file/d/1meTdyzK59GFpI0td-_34rZNxI8DWYmmP/view?usp=drive_link)  
 
-&nbsp;&nbsp;&nbsp;&nbsp;● [Тестовое задание Python, SQL](https://drive.google.com/file/d/1meTdyzK59GFpI0td-_34rZNxI8DWYmmP/view?usp=drive_link)  
+&nbsp;&nbsp;&nbsp;&nbsp;● [Тестовое задание Python, SQL](https://drive.google.com/file/d/1ct8QoDS5MSSkKjqrN55jqyWfVthhi4J9/view?usp=drive_link)  
 
 &nbsp;&nbsp;&nbsp;&nbsp;● [Тест-кейс TestIT](https://drive.google.com/file/d/133iMN5WR2oZ8Zf9DVd3Gj1GmYxX-ceCr/view?usp=drive_link)  
 
