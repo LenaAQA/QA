@@ -57,7 +57,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;● [Чек-лист Stepik Поиск](https://docs.google.com/spreadsheets/d/1WN-gwXvxlP9jwAB1CxSssDiD3xom-8ce/edit?usp=sharing) 
 
-&nbsp;&nbsp;&nbsp;&nbsp;● [Отчёт о дефекте Coursera Google](https://drive.google.com/file/d/133iMN5WR2oZ8Zf9DVd3Gj1GmYxX-ceCr/view?usp=drive_link)  
+&nbsp;&nbsp;&nbsp;&nbsp;● [Отчёт о дефекте Coursera Google](https://drive.google.com/file/d/1meTdyzK59GFpI0td-_34rZNxI8DWYmmP/view?usp=drive_link)  
 
 &nbsp;&nbsp;&nbsp;&nbsp;● [Тестовое задание Python, SQL](https://drive.google.com/file/d/1meTdyzK59GFpI0td-_34rZNxI8DWYmmP/view?usp=drive_link)  
 
