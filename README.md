@@ -56,7 +56,7 @@
 ### 📜 Тестирование ПО с нуля. Теория + Практика (Курс Артёма Русова)  
 &nbsp;&nbsp;&nbsp;&nbsp;● [Сертификат](https://drive.google.com/file/d/1JBV3N70f2Qokpq-BfWgYLYIgbUhjgLk6/view?usp=drive_link)  
 
-&nbsp;&nbsp;&nbsp;&nbsp;● [Чек-лист Stepik Поиск](https://docs.google.com/spreadsheets/d/1trw_mFmA3JwGvstVQJzKsuthiMBT1p3b/edit?usp=drive_link&ouid=104831596261448590450&rtpof=true&sd=true)  
+&nbsp;&nbsp;&nbsp;&nbsp;● [Чек-лист Stepik Поиск](https://docs.google.com/spreadsheets/d/17Hh4McFIMwpTiEn5O54P4rzqOZmY30H_/edit?usp=drive_link&ouid=104831596261448590450&rtpof=true&sd=true)  
 
 &nbsp;&nbsp;&nbsp;&nbsp;● [Отчёт о дефекте Coursera Google](https://drive.google.com/file/d/1meTdyzK59GFpI0td-_34rZNxI8DWYmmP/view?usp=drive_link)  
 
