@@ -28,16 +28,6 @@
 
 ---
 
-<h2>Моё резюме:</h2>
-
-<div>
-  <a href="https://drive.google.com/file/d/1h2VAPC6ne4_YRI_pzNCMGjSsZirURCFH/view?usp=sharing" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/6186/6186195.png" width="50" height="50" alt="cv" />
-  </a>
-</div>
-
----
-
 <h2>🎓 Пройденные курсы:</h2>
 
 ### 📜 Автоматизация тестирования на Python (Selenium, Pytest, Allure, POM) (RedRover.School)  
